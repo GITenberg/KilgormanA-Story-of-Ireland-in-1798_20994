@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9657
     wikipedia: http://en.wikipedia.org/wiki/Talbot_Baines_Reed
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20994#KilgormanA-Story-of-Ireland-in-1798
 gutenberg_issued: '2007-04-05'
 gutenberg_type: Text
 identifiers:
